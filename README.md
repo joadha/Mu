@@ -13,7 +13,7 @@ Or follow the tutorial below.
 You don't need a CS degree to write a programing language, you just need to understand 3 basic steps.
  
 ## The Language: **Mu(μ)**
-Mu is a minimal language, that is consisted by a postfix operator, a binary operation and one digit numbers.
+Mu is a minimal language, that is consisted by a postfix operator, a binary operation and one-digit numbers.
  
 ### Examples:
 `(s 2 4)` or `(s (s 4 5) 4)` or `(s (s 4 5) (s 3 2))`...
@@ -31,7 +31,7 @@ Mu is a minimal language, that is consisted by a postfix operator, a binary oper
 
 *"In computer science, lexical analysis is the process of converting a sequence of characters into a sequence of tokens (strings with an identified "meaning"). A program that performs lexical analysis may be called a lexer, tokenizer,[1] or scanner (though "scanner" is also used to refer to the first stage of a lexer). Such a lexer is generally combined with a parser, which together analyze the syntax of programming languages..."* *-Wikipedia*
 
-The idea is to transform an array of charaters into an array of tokens (strings with an identified "meaning")
+The idea is to transform an array of characters into an array of tokens (strings with an identified "meaning")
 
 ## Example:
 ![Alt text](https://raw.githubusercontent.com/marciok/Mu/master/WriteYourLanguage.playground/Pages/Lexer.xcplaygroundpage/Resources/lexer.png)
